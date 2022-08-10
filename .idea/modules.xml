@@ -5,7 +5,16 @@
       <module fileurl="file://$PROJECT_DIR$/c01-introduction/c01-introduction.iml" filepath="$PROJECT_DIR$/c01-introduction/c01-introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/c02-objects/c02-objects.iml" filepath="$PROJECT_DIR$/c02-objects/c02-objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/c03-operators/c03-operators.iml" filepath="$PROJECT_DIR$/c03-operators/c03-operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c04-controlling-execution/c04-controlling-execution.iml" filepath="$PROJECT_DIR$/c04-controlling-execution/c04-controlling-execution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c05-initialization_cleanup/c05-initialization_cleanup.iml" filepath="$PROJECT_DIR$/c05-initialization_cleanup/c05-initialization_cleanup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c06-access-control/c06-access-control.iml" filepath="$PROJECT_DIR$/c06-access-control/c06-access-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c07-reusing-classes/c07-reusing-classes.iml" filepath="$PROJECT_DIR$/c07-reusing-classes/c07-reusing-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c08-polymorphism/c08-polymorphism.iml" filepath="$PROJECT_DIR$/c08-polymorphism/c08-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c09-interfaces/c09-interfaces.iml" filepath="$PROJECT_DIR$/c09-interfaces/c09-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c10-inner-classes/c10-inner-classes.iml" filepath="$PROJECT_DIR$/c10-inner-classes/c10-inner-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c11-containers/c11-containers.iml" filepath="$PROJECT_DIR$/c11-containers/c11-containers.iml" />
       <module fileurl="file://$PROJECT_DIR$/c12-error-handling/c12-error-handling.iml" filepath="$PROJECT_DIR$/c12-error-handling/c12-error-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c13-strings/c13-strings.iml" filepath="$PROJECT_DIR$/c13-strings/c13-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase-examples.iml" filepath="$PROJECT_DIR$/javase-examples.iml" />
     </modules>
   </component>

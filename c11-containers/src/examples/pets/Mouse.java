@@ -1,0 +1,7 @@
+//: typeinfo/examples.pets/Mouse.java
+package examples.pets;
+
+public class Mouse extends Rodent {
+  public Mouse(String name) { super(name); }
+  public Mouse() { super(); }
+} ///:~
