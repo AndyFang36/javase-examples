@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/c01-introduction/c01-introduction.iml" filepath="$PROJECT_DIR$/c01-introduction/c01-introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c02-objects/c02-objects.iml" filepath="$PROJECT_DIR$/c02-objects/c02-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c03-operators/c03-operators.iml" filepath="$PROJECT_DIR$/c03-operators/c03-operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c12-error-handling/c12-error-handling.iml" filepath="$PROJECT_DIR$/c12-error-handling/c12-error-handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase-examples.iml" filepath="$PROJECT_DIR$/javase-examples.iml" />
     </modules>
   </component>

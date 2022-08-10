@@ -1,14 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a7d12d-5b1a-43d5-9db4-9a49954c5e72" name="Changes" comment="" />
+    <list default="true" id="43a7d12d-5b1a-43d5-9db4-9a49954c5e72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/c02-objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/HelloDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/PropertiesPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e01/DefaultInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e02/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e03/ATypeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e04_e05/DataOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e04_e05/DataOnly2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e06/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e07/Incremental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e08/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e09/AutoboxingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e10/MainArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e10/MainArgsLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e11/RainbowColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e12/JavaDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e13/Documentation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e13/Documentation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e13/Documentation3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e14/JavadocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e15/HelloWorldDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c02-objects/src/exercises/e16/OverloadingDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/c03-operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s01/HelloDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s03/Precedence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s04/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s04/PassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s05/MathOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s06/AutoInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s07/EqualsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s07/EqualsMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s07/Equivalence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s08/BooleanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s08/ShortCircuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s09/Exponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s09/Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s11/BitManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s11/URShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s12/TernaryIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s13/StringOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s15/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s15/CastingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s15/RoundingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s17/AllOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/examples/s17/Overflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e01/PrintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e02/Assign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e03/PassObject2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e05/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e05/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e06/DogCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e07/CoinToss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e08/LongValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e09/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e10/BinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e11/RightShiftTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e12/RightShiftTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e13/CharBinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c03-operators/src/exercises/e14/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/c12-error-handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/FullConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/InheritingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/SimpleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/_01_logging/ExtraFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/_01_logging/LoggingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/_01_logging/LoggingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/_01_logging/LoggingExceptions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s04_own_exceptions/_01_logging/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s06_Catching_any_exception/ExceptionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s06_Catching_any_exception/_01_stack_trace/WhoCalled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s06_Catching_any_exception/_02_rethrowing/RethrowNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s06_Catching_any_exception/_02_rethrowing/Rethrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s06_Catching_any_exception/_03_chaining/DynamicFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s06_Catching_any_exception/_03_chaining/DynamicFieldsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s07_standard_exception/NeverCaught.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/FinallyWorks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/ThreeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_01_original_state/AlwaysFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_01_original_state/OnOffException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_01_original_state/OnOffException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_01_original_state/OnOffSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_01_original_state/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_01_original_state/WithFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_02_return/MultipleReturns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_03_lost_exception/ExceptionSilencer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_03_lost_exception/HoHumException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_03_lost_exception/LostMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s08_finally/_03_lost_exception/VeryImportantException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s09_restrictions/BaseballException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s09_restrictions/Inning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s09_restrictions/Storm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s09_restrictions/StormException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s09_restrictions/StormyInning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s10_constructors/Cleanup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s10_constructors/CleanupIdiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s10_constructors/InputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s11_matching/Annoyance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s11_matching/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s11_matching/Sneeze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s12_alternative_approaches/_03_console/MainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s12_alternative_approaches/_04_runtime/SomeOtherException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s12_alternative_approaches/_04_runtime/TurnOffChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/examples/s12_alternative_approaches/_04_runtime/WrapCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex01/SimpleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex02/NullReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex03/ArrayIndexBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex04/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex04/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex04/MyException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex05/Resume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex05/ResumeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex05/Resumption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex06/LoggingException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex06/LoggingException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex06/LoggingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex07/LoggedArrayIndexBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex08/ExceptionSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex08/Thrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex09/CatchAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex09/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex09/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex09/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex09/ExBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex09/Thrower2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex10/ChangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex11/ChangeToRuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex12/Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex12/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex12/SequenceExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex12/SequenceFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex13/Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex14/OnOffSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex15/WithFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex16/CADSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex16/CADSystemFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex17/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex17/FrogFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex18/LostMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex18/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex18/YetAnotherException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex19/GuardedLostMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex20/BaseballException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex20/Inning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex20/Storm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex20/StormException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex20/StormyInning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex20/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex21/BaseWithException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex21/ConstructorExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex21/DerivedWE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex21/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex22/ConstructionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex22/FailingConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex22/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex23/FailingConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex23/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex23/WithDispose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex25/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex25/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex25/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex25/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex25/ThreeLevelExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex26/MainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex27/RuntimeArrayIndexBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex28/MyRuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex28/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex29/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex30/Annoyance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex30/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c12-error-handling/src/exercises/ex30/Sneeze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/net.mindview.util.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c01-introduction/c01-introduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/c01-introduction/c01-introduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javase-examples.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2D8wWNRfNlxal0n0xYWItHUjbt9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,9 +209,59 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Documents/Programming/BackEnd/JavaSE/javase-examples/javase-examples/c12-error-handling/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\Programming\BackEnd\JavaSE\javase-examples\javase-examples\c12-error-handling\src" />
+      <recent name="D:\Documents\Programming\BackEnd\JavaSE\javase-examples\javase-examples\libs" />
+      <recent name="D:\Documents\Programming\BackEnd\JavaSE\javase-examples\javase-examples\c03-operators\src" />
+      <recent name="D:\Documents\Programming\BackEnd\JavaSE\javase-examples\javase-examples\c02-objects\src" />
+      <recent name="D:\Documents\Programming\BackEnd\JavaSE\javase-examples\javase-examples\c01-introduction\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PropertiesPrinter">
+    <configuration name="HelloDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloDate" />
+      <module name="c02-objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="c01-introduction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PropertiesPrinter" />
+      <module name="c02-objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PropertiesPrinter" />
+        <item itemvalue="Application.HelloDate" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,8 +270,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660094053267</updated>
+      <workItem from="1660094055227" duration="1469000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
